@@ -1,3 +1,7 @@
 bhanu doing some kjgfnfgongkndlks 
+<<<<<<< HEAD
 khfsklhskldfh
 ghfioudhgidhgoihgi
+=======
+khfsklhskldfh
+>>>>>>> parent of 86044e3 (revert)
